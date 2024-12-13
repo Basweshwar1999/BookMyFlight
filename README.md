@@ -80,12 +80,25 @@ API: Free flight API (e.g., RapidAPI, Skyscanner API)
 
 # Inside of Application
 1.Sign In Page:
+
+
 <img width="409" alt="Screenshot 2024-12-13 at 11 19 42 AM" src="https://github.com/user-attachments/assets/b3363a1e-38a3-46a1-8620-8809395936a8" />
 
+
+
 2.Dashboard:
+
 <img width="293" alt="Screenshot 2024-12-13 at 11 18 03 AM" src="https://github.com/user-attachments/assets/a2121b89-a0a4-4fb6-b3ff-6b05e17c0235" />
+
+
+
 3.Select Date:
+
+
 <img width="411" alt="Screenshot 2024-12-13 at 11 20 38 AM" src="https://github.com/user-attachments/assets/11ebab54-3b0b-4023-b849-ce7d9194afb5" />
+
+
+
 4.
 <img width="420" alt="Screenshot 2024-12-13 at 11 20 53 AM" src="https://github.com/user-attachments/assets/10d0b00c-9c44-4b4d-85f8-71d512c900d8" />
 
