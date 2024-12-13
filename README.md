@@ -79,8 +79,8 @@ API: Free flight API (e.g., RapidAPI, Skyscanner API)
 
 
 # Inside of Application
+<img width="409" alt="Screenshot 2024-12-13 at 11 19 42 AM" src="https://github.com/user-attachments/assets/b3363a1e-38a3-46a1-8620-8809395936a8" />
 
-![Uploading Screenshot 2024-12-13 at 11.19.42 AM.png…]()
 
 
 
