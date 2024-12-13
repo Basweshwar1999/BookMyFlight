@@ -99,10 +99,24 @@ API: Free flight API (e.g., RapidAPI, Skyscanner API)
 
 
 
-4.
+4.List of Flights: 
+
+
 <img width="420" alt="Screenshot 2024-12-13 at 11 20 53 AM" src="https://github.com/user-attachments/assets/10d0b00c-9c44-4b4d-85f8-71d512c900d8" />
 
+
+
+
+5. Add Traveller :
+
+
+
 <img width="399" alt="Screenshot 2024-12-13 at 11 21 53 AM" src="https://github.com/user-attachments/assets/44969dd0-1701-429b-93ad-dd4d4515f5fc" />
+
+
+
+6.My Bookings
+
 
 <img width="433" alt="Screenshot 2024-12-13 at 11 24 07 AM" src="https://github.com/user-attachments/assets/abe4d6d7-ad07-4559-a778-3db682aa294b" />
 
