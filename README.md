@@ -46,34 +46,31 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
-## Step 3: Modifying your App
+#  FLIGHT BOOKING APP :
 
-Now that you have successfully run the app, let's modify it.
+# Flight Booking Mobile App
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
+This mobile application provides a user-friendly platform to search, compare, and book domestic and international flights. Leveraging a free API to fetch real-time flight information, the app offers a seamless user experience for travelers.
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
+# Key Features:
 
-## Congratulations! :tada:
+1.Flight Search:
+Allows users to search for flights based on origin, destination, departure date, and return date.
+Provides a flexible search interface with options for one-way, round-trip, and multi-city trips.
+2.Flight Results:
+Displays a list of available flights, including airline, departure/arrival times, duration, and price.
+Offers filtering and sorting options to help users find the best flights.
+3.Flight Details:
+Provides detailed information about each flight, including baggage allowances, layovers, and airline policies.
+4.Booking Process:
+Guides users through a simple booking process, including passenger details, payment options, and booking confirmation.
+5.User-Friendly Interface:
+Intuitive user interface with clear navigation and easy-to-understand information.
+Responsive design to adapt to different screen sizes.
+Technology Stack:
 
-You've successfully run and modified your React Native App. :partying_face:
+Frontend: React Native
+Backend: MYSQL , Java Spring Boot ,Hibernate.
+API: Free flight API (e.g., RapidAPI, Skyscanner API)
 
-### Now what?
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
