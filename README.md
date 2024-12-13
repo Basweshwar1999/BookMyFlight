@@ -57,13 +57,17 @@ This mobile application provides a user-friendly platform to search, compare, an
 1.Flight Search:
 Allows users to search for flights based on origin, destination, departure date, and return date.
 Provides a flexible search interface with options for one-way, round-trip, and multi-city trips.
+
 2.Flight Results:
 Displays a list of available flights, including airline, departure/arrival times, duration, and price.
 Offers filtering and sorting options to help users find the best flights.
+
 3.Flight Details:
 Provides detailed information about each flight, including baggage allowances, layovers, and airline policies.
+
 4.Booking Process:
 Guides users through a simple booking process, including passenger details, payment options, and booking confirmation.
+
 5.User-Friendly Interface:
 Intuitive user interface with clear navigation and easy-to-understand information.
 Responsive design to adapt to different screen sizes.
